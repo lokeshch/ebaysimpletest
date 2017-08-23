@@ -1,0 +1,16 @@
+C:\Users\Srini\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\Srini\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\Login.csprojResolveAssemblyReference.cache
+C:\Users\Srini\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.dll.config
+C:\Users\Srini\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.dll
+C:\Users\Srini\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Srini\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\nunit.framework.dll
+C:\Users\Srini\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\WebDriver.dll
+C:\Users\Srini\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\WebDriver.Support.dll
+C:\Users\Srini\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\nunit.framework.xml
+C:\Users\Srini\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\WebDriver.xml
+C:\Users\Srini\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\WebDriver.Support.xml
+C:\Users\Srini\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.dll
+C:\Users\Srini\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Srini\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\configurations\Environment.config
+C:\Users\Srini\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Dapper.dll
+C:\Users\Srini\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Dapper.xml
